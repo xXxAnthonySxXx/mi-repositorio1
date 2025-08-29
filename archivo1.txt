@@ -1,3 +1,6 @@
 este es mi archico
 #editando archivo en git hub 17:00
-cambio realizado en git hub (main)
+cambio realizado en git hub(main)
+cambio modificado en el remoto
+
+
